@@ -1,0 +1,13 @@
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\Seung-O Sleeper Server.exe.config
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\Seung-O Sleeper Server.exe
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\Seung-O Sleeper Server.pdb
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\JsonExSerializer.dll
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\JsonExSerializer.pdb
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\JsonExSerializer.xml
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\obj\Debug\Seung-O Sleeper Server.csprojResolveAssemblyReference.cache
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\obj\Debug\Seung-O Sleeper Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\obj\Debug\Seung-O Sleeper Server.csproj.CopyComplete
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\obj\Debug\Seung-O Sleeper Server.exe
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\obj\Debug\Seung-O Sleeper Server.pdb
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DBLAB-D\source\repos\Seung-O Sleeper Server\Seung-O Sleeper Server\bin\Debug\Newtonsoft.Json.xml
